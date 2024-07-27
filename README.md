@@ -1,9 +1,9 @@
-## Key Insight
+# Key Insight
 
-* Revenue Performance:
-Mumbai generated the highest revenue at $669M
-Delhi generated the lowest revenue at $290.92M.
-Total revenue stood at $1.69 billion, with the luxury segment contributing 61.62% and the business category contributing 38.82%
+## Revenue Performance:
+  * Mumbai generated the highest revenue at $669M
+  * Delhi generated the lowest revenue at $290.92M.
+  * Total revenue stood at $1.69 billion, with the luxury segment contributing 61.62% and the business category contributing 38.82%
 
 * Occupancy Rates:
 Delhi had the highest occupancy rate at 60.44%, despite having the lowest Daily Sales Rate per Night (DSRN) of $435.
